@@ -1,0 +1,1704 @@
+/* screen - newslettercontinous432023 */
+
+.newslettercontinous432023 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 3091px;
+  overflow-x: hidden;
+  width: 650px;
+}
+
+.newslettercontinous432023 .flex-col {
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 1502px;
+  width: 652px;
+}
+
+.newslettercontinous432023 .icreditworks_logo_07122018 {
+  height: 51px;
+  margin-left: 3.0px;
+  width: 303px;
+}
+
+.newslettercontinous432023 .overlap-group15 {
+  align-items: flex-end;
+  background-color: #ea731fe3;
+  display: flex;
+  height: 41px;
+  margin-left: 1.0px;
+  margin-top: 20px;
+  min-width: 651px;
+  padding: 3px 25px;
+}
+
+.newslettercontinous432023 .apr-2023 {
+  color: var(--white);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-l);
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.newslettercontinous432023 .hr-newsletter {
+  color: var(--white);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-left: 62px;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.newslettercontinous432023 .vol-1-issue-1 {
+  color: var(--white);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-l);
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-bottom: 2px;
+  margin-left: 54px;
+  text-align: right;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.newslettercontinous432023 .overlap-group14 {
+  align-items: flex-start;
+  background-image: url(../img/newsletter---continous-432023-image-F1257D00-FA3E-4B8D-B324-915DA7B9CA24.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 335px;
+  margin-right: 1.0px;
+  margin-top: 1px;
+  min-width: 651px;
+  padding: 35px 54px;
+}
+
+.newslettercontinous432023 .whats-happening-thi {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: 43.9px;
+  min-height: 134px;
+  text-align: center;
+  text-shadow: 0px 2px 4px #ffffff;
+  width: 262px;
+}
+
+.newslettercontinous432023 .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 550px;
+  margin-top: 33px;
+  min-width: 594px;
+}
+
+.newslettercontinous432023 .group {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 550px;
+  width: 354px;
+}
+
+.newslettercontinous432023 .overlap-group6 {
+  height: 492px;
+  position: relative;
+  width: 354px;
+}
+
+.newslettercontinous432023 .mark-your-calendar-f {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-xl);
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.newslettercontinous432023 .group-19 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 432px;
+  left: 0;
+  min-width: 354px;
+  position: absolute;
+  top: 60px;
+}
+
+.newslettercontinous432023 .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 328px;
+  width: 22px;
+}
+
+.newslettercontinous432023 .group-7 {
+  align-items: flex-start;
+  background-color: var(--jaffa);
+  border-radius: 22px;
+  display: flex;
+  height: 22px;
+  min-width: 22px;
+  padding: 2px 5px;
+}
+
+.newslettercontinous432023 .number {
+  font-weight: 700;
+  line-height: 17px;
+  min-width: 12px;
+  text-align: center;
+}
+
+.newslettercontinous432023 .group-7-1 {
+  margin-top: 82px;
+  padding: 1px 5px;
+}
+
+.newslettercontinous432023 .group-7-2 {
+  margin-top: 51px;
+  padding: 2px 5px;
+}
+
+.newslettercontinous432023 .group-7-3 {
+  margin-top: 49px;
+  padding: 1px 5px;
+}
+
+.newslettercontinous432023 .group-7-4 {
+  margin-top: 36px;
+  padding: 2px 5px;
+}
+
+.newslettercontinous432023 .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 429px;
+  width: 325px;
+}
+
+.newslettercontinous432023 .overlap-group5 {
+  height: 64px;
+  position: relative;
+  width: 325px;
+}
+
+.newslettercontinous432023 .bring-in-your-favo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 27px;
+  width: 233px;
+}
+
+.newslettercontinous432023 .wed-apr-12 {
+  left: 0;
+  letter-spacing: -0.15px;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  width: 98px;
+}
+
+.newslettercontinous432023 .office-potluck {
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 1px;
+  width: 229px;
+}
+
+.newslettercontinous432023 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 39px;
+  min-height: 172px;
+  width: 323px;
+}
+
+.newslettercontinous432023 .overlap-group-2 {
+  height: 42px;
+  position: relative;
+  width: 322px;
+}
+
+.newslettercontinous432023 .thu-apr-13 {
+  top: 0;
+  width: 99px;
+}
+
+.newslettercontinous432023 .executive-roundtable {
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.newslettercontinous432023 .overlap-group1 {
+  height: 41px;
+  margin-top: 30px;
+  position: relative;
+  width: 323px;
+}
+
+.newslettercontinous432023 .thu-apr-2 {
+  top: 0;
+  width: 97px;
+}
+
+.newslettercontinous432023 .town-hall-with-conte {
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.newslettercontinous432023 .overlap-group2 {
+  height: 28px;
+  margin-top: 31px;
+  position: relative;
+  width: 321px;
+}
+
+.newslettercontinous432023 .thu-apr-27 {
+  top: 1px;
+  width: 97px;
+}
+
+.newslettercontinous432023 .board-meeting {
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  width: 225px;
+}
+
+.newslettercontinous432023 .overlap-group4 {
+  height: 125px;
+  margin-top: 29px;
+  position: relative;
+  width: 324px;
+}
+
+.newslettercontinous432023 .overlap-group3 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.newslettercontinous432023 .take-your-child-to-w {
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 1px;
+  width: 228px;
+}
+
+.newslettercontinous432023 .complete-the-signu {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 42px;
+  width: 233px;
+}
+
+.newslettercontinous432023 .any-questions-please {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 1px;
+  min-height: 42px;
+  width: 352px;
+}
+
+.newslettercontinous432023 .overlap-group16 {
+  height: 540px;
+  position: relative;
+  width: 231px;
+}
+
+.newslettercontinous432023 .overlap-group13 {
+  height: 540px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 231px;
+}
+
+.newslettercontinous432023 .group-6 {
+  align-items: flex-end;
+  border: 3.74px solid;
+  border-color: #ea861f;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  left: 0;
+  min-height: 540px;
+  padding: 83.3px 8.5px;
+  position: absolute;
+  top: 0;
+  width: 231px;
+}
+
+.newslettercontinous432023 .last-months-highligh {
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-right: 10.5px;
+  min-height: 60px;
+  text-align: center;
+  width: 203px;
+}
+
+.newslettercontinous432023 .our-container {
+  height: 55px;
+  position: relative;
+  width: 205px;
+}
+
+.newslettercontinous432023 .our-hard-works-pays {
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.newslettercontinous432023 .we-hit-our-1-millio {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 23px;
+  width: 198px;
+}
+
+.newslettercontinous432023 .line-2 {
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 153px;
+  width: 204px;
+}
+
+.newslettercontinous432023 .stars {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  left: 81px;
+  min-width: 70px;
+  position: absolute;
+  top: 13px;
+}
+
+.newslettercontinous432023 .path {
+  height: 2px;
+  margin-bottom: 2.0px;
+  width: 7px;
+}
+
+.newslettercontinous432023 .flex-col-2 {
+  align-items: center;
+  align-self: flex-start;
+  margin-left: 2px;
+  min-height: 69px;
+  width: 50px;
+}
+
+.newslettercontinous432023 .path-1 {
+  height: 7px;
+  width: 2px;
+}
+
+.newslettercontinous432023 .overlap-group8 {
+  height: 50px;
+  margin-top: 2px;
+  position: relative;
+  width: 50px;
+}
+
+.newslettercontinous432023 .icon-star {
+  height: 40px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 41px;
+}
+
+.newslettercontinous432023 .path-2 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 6px;
+}
+
+.newslettercontinous432023 .path-3 {
+  height: 6px;
+  left: 44px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.newslettercontinous432023 .path-4 {
+  height: 6px;
+  left: 44px;
+  position: absolute;
+  top: 44px;
+  width: 6px;
+}
+
+.newslettercontinous432023 .path-5 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.newslettercontinous432023 .path-6 {
+  height: 7px;
+  margin-top: 3px;
+  width: 2px;
+}
+
+.newslettercontinous432023 .path-7 {
+  height: 2px;
+  margin-bottom: 2.0px;
+  margin-left: 3px;
+  width: 7px;
+}
+
+.newslettercontinous432023 .purple-power {
+  font-weight: 500;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.newslettercontinous432023 .name {
+  font-weight: 500;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 306px;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.newslettercontinous432023 .group-12 {
+  background-image: url(../img/newsletter---continous-432023-image-64A897D1-E45B-4E8F-8FC5-2BA18B2716A0@2x.png);
+  background-size: 100% 100%;
+  height: 95px;
+  left: 16px;
+  position: absolute;
+  top: 430px;
+  width: 198px;
+}
+
+.newslettercontinous432023 .international-women {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 249px;
+  width: 197px;
+}
+
+.newslettercontinous432023 .the-tech-and-ops-tea {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 327px;
+  width: 201px;
+}
+
+.newslettercontinous432023 .overlap-group10 {
+  height: 459px;
+  margin-left: 1.0px;
+  margin-top: 11px;
+  position: relative;
+  width: 597px;
+}
+
+.newslettercontinous432023 .overlap-group9 {
+  height: 459px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.newslettercontinous432023 .group-2 {
+  align-items: flex-start;
+  background-color: #f1f1f1;
+  display: flex;
+  gap: 27px;
+  height: 437px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 597px;
+  padding: 29.7px 149px;
+  position: absolute;
+  top: 22px;
+}
+
+.newslettercontinous432023 .line-2-1 {
+  height: 85px;
+  width: 7px;
+}
+
+.newslettercontinous432023 .how-you-can-celebrat {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 20.29px;
+  min-height: 56px;
+  width: 216px;
+}
+
+.newslettercontinous432023 .earth-day_i-stock-1227070080 {
+  align-items: flex-end;
+  display: flex;
+  gap: 1px;
+  height: 173px;
+  justify-content: flex-end;
+  left: 14px;
+  min-width: 173px;
+  padding: 35px 14px;
+  position: absolute;
+  top: 0;
+}
+
+.newslettercontinous432023 .overlap-group1-1 {
+  align-items: flex-end;
+  background-image: url(../img/newsletter---continous-432023-group-6-67DF4E24-3214-4F97-BF31-8A791B6B9B8E@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 95px;
+  justify-content: flex-end;
+  min-width: 53px;
+  padding: 1px 0;
+}
+
+.newslettercontinous432023 .group-15 {
+  background-image: url(../img/newsletter---continous-432023-group-15-0EDDA4B9-AE94-410D-8A27-5E2BD3438E15@2x.png);
+  background-size: 100% 100%;
+  height: 91px;
+  width: 44px;
+}
+
+.newslettercontinous432023 .group-34 {
+  align-items: center;
+  display: flex;
+  margin-bottom: 4px;
+  min-width: 88px;
+}
+
+.newslettercontinous432023 .flex-row {
+  gap: 3px;
+  height: 79px;
+  min-width: 38px;
+}
+
+.newslettercontinous432023 .fill-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 79px;
+  width: 25px;
+}
+
+.newslettercontinous432023 .fill-18 {
+  height: 39px;
+  width: 24px;
+}
+
+.newslettercontinous432023 .fill-16 {
+  height: 38px;
+  margin-left: 1px;
+  width: 24px;
+}
+
+.newslettercontinous432023 .fill-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 3.0px;
+  min-height: 42px;
+  width: 10px;
+}
+
+.newslettercontinous432023 .fill-19 {
+  height: 21px;
+  width: 9px;
+}
+
+.newslettercontinous432023 .fill-24 {
+  height: 17px;
+  width: 10px;
+}
+
+.newslettercontinous432023 .flex-col-3 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-bottom: 3.0px;
+  min-height: 42px;
+  width: 51px;
+}
+
+.newslettercontinous432023 .fill-container-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 51px;
+}
+
+.newslettercontinous432023 .fill-20 {
+  height: 21px;
+  width: 13px;
+}
+
+.newslettercontinous432023 .fill-2 {
+  height: 21px;
+  margin-left: 1px;
+  width: 11px;
+}
+
+.newslettercontinous432023 .fill-23 {
+  height: 21px;
+  margin-left: 2px;
+  width: 12px;
+}
+
+.newslettercontinous432023 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1px;
+  min-width: 49px;
+}
+
+.newslettercontinous432023 .fill-container-3 {
+  height: 17px;
+  position: relative;
+  width: 20px;
+}
+
+.newslettercontinous432023 .fill-25 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.newslettercontinous432023 .fill-26 {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.newslettercontinous432023 .fill-27 {
+  height: 7px;
+  margin-left: 3px;
+  width: 4px;
+}
+
+.newslettercontinous432023 .fill-28 {
+  height: 7px;
+  width: 4px;
+}
+
+.newslettercontinous432023 .fill-29 {
+  height: 6px;
+  margin-left: 2px;
+  margin-top: 1px;
+  width: 4px;
+}
+
+.newslettercontinous432023 .fill-30 {
+  height: 6px;
+  margin-left: 1px;
+  margin-top: 2px;
+  width: 4px;
+}
+
+.newslettercontinous432023 .fill-31 {
+  height: 5px;
+  margin-top: 2px;
+  width: 3px;
+}
+
+.newslettercontinous432023 .fill-3 {
+  height: 6px;
+  margin-top: 1px;
+  width: 2px;
+}
+
+.newslettercontinous432023 .overlap-group2-1 {
+  height: 244px;
+  left: 17px;
+  position: absolute;
+  top: 146px;
+  width: 560px;
+}
+
+.newslettercontinous432023 .pivot-to-a-walking {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21.9px;
+  position: absolute;
+  top: 0;
+  width: 560px;
+}
+
+.newslettercontinous432023 .the-shuttle-runs-6 {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-xs);
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.1px;
+  position: absolute;
+  top: 132px;
+  width: 419px;
+}
+
+.newslettercontinous432023 .wendell-berry {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: 11px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  text-align: right;
+  top: 408px;
+  width: 505px;
+}
+
+.newslettercontinous432023 .text_label {
+  color: #ea861f;
+  font-family: var(--font-family-arial-boldmt);
+  font-size: 70.3px;
+  font-weight: 700;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  text-align: center;
+  top: 375px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.newslettercontinous432023 .the-earth-is-what-we {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: 26px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 386px;
+  white-space: nowrap;
+  width: 487px;
+}
+
+.newslettercontinous432023 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  height: 783px;
+  margin-left: 1.0px;
+  margin-top: 42px;
+  min-width: 597px;
+}
+
+.newslettercontinous432023 .flex-row-item {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 783px;
+  width: 278px;
+}
+
+.newslettercontinous432023 .welcome-to-success_i-stock-803179176 {
+  align-items: flex-start;
+  background-color: #d7d7d7;
+  border: 0.93px solid;
+  border-color: #969696;
+  display: flex;
+  height: 182px;
+  overflow: hidden;
+  width: 278px;
+}
+
+.newslettercontinous432023 .welcome-to-success_i-stock-803179176-1 {
+  height: 198px;
+  margin-top: -7.9px;
+  width: 281px;
+}
+
+.newslettercontinous432023 .kristan-olivo {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  margin-top: 12px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .kristan-joined-the-i {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1px;
+  margin-top: 5px;
+  min-height: 57px;
+  width: 235px;
+}
+
+.newslettercontinous432023 .overlap-group11 {
+  height: 371px;
+  margin-top: 136px;
+  position: relative;
+  width: 278px;
+}
+
+.newslettercontinous432023 .group-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 371px;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.newslettercontinous432023 .screen-shot-2020-05-04-at-65039-am-copy {
+  background-image: url(../img/newsletter---continous-432023-screen-shot-2020-05-04-at-65039-am-copy-6B8D1D6F-14F2-4BF7-905D-1B88C0CDAA68@2x.png);
+  background-size: 100% 100%;
+  height: 182px;
+  width: 278px;
+}
+
+.newslettercontinous432023 .congrats-years-of-s {
+  font-weight: 700;
+  letter-spacing: -0.85px;
+  line-height: 21px;
+  margin-bottom: -1px;
+  margin-top: 12px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .overlap-group-container-1 {
+  height: 40px;
+  width: 277px;
+}
+
+.newslettercontinous432023 .overlap-group-3 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.newslettercontinous432023 .henry-cancel {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .number-3 {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: 16.8px;
+  left: 159px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  width: 118px;
+}
+
+.newslettercontinous432023 .overlap-group1-2 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 277px;
+}
+
+.newslettercontinous432023 .shankar-iyer {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .number-4 {
+  left: 159px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  width: 118px;
+}
+
+.newslettercontinous432023 .happy-anniversary-an {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 295px;
+  width: 259px;
+}
+
+.newslettercontinous432023 .screen-shot-2020-05-04-at-65039-am-copy-1 {
+  background-image: url(../img/newsletter---continous-432023-screen-shot-2020-05-04-at-65039-am-copy-A8D4E960-B09A-4368-ADEF-8F588E509F0A@2x.png);
+  background-size: 100% 100%;
+  height: 182px;
+  width: 278px;
+}
+
+.newslettercontinous432023 .celebrating-in-april {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -1px;
+  margin-top: 12px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .overlap-group-container-2 {
+  height: 153px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .overlap-group-4 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.newslettercontinous432023 .rich-groves {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .number-1 {
+  left: 158px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  width: 118px;
+}
+
+.newslettercontinous432023 .overlap-group1-3 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .matt-tooker {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .number-5 {
+  left: 158px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 118px;
+}
+
+.newslettercontinous432023 .overlap-group2-2 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .dharanisree-sriniv {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .number-2 {
+  left: 218px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  width: 58px;
+}
+
+.newslettercontinous432023 .overlap-group3-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .henry-cancel-1 {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .overlap-group4-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .paul-goodman {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .overlap-group5-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 93px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .remya-ambika {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .overlap-group6-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .sarah-gibbs {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .overlap-group7 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 131px;
+  width: 276px;
+}
+
+.newslettercontinous432023 .stephen-sweeney {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .group-12-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 371px;
+  width: 278px;
+}
+
+.newslettercontinous432023 .screen-shot-2020-05-04-at-65039-am-copy-2 {
+  background-image: url(../img/newsletter---continous-432023-screen-shot-2020-05-04-at-65039-am-copy-700BA550-F683-45FE-AF03-B6C8D0339CC1@2x.png);
+  background-size: 100% 100%;
+  height: 182px;
+  width: 278px;
+}
+
+.newslettercontinous432023 .open-positions {
+  font-weight: 700;
+  letter-spacing: -0.85px;
+  line-height: 21px;
+  margin-bottom: -1px;
+  margin-top: 12px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  min-height: 152px;
+  width: 269px;
+}
+
+.newslettercontinous432023 .overlap-group-5 {
+  height: 113px;
+  position: relative;
+  width: 269px;
+}
+
+.newslettercontinous432023 .head-of-capital-ma {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .i-os-engineer {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .cloud-engineer {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .customer-service-r {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 56px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .commercial-opportu {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .summer-internships {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.newslettercontinous432023 .employee-referral {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -1px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .flex-col-4 {
+  align-items: center;
+  gap: 37px;
+  margin-left: 3.0px;
+  margin-top: 20px;
+  min-height: 723px;
+  width: 651px;
+}
+
+.newslettercontinous432023 .group-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-left: 17.0px;
+  min-height: 498px;
+  width: 616px;
+}
+
+.newslettercontinous432023 .overlap-group3-2 {
+  height: 343px;
+  position: relative;
+  width: 617px;
+}
+
+.newslettercontinous432023 .overlap-group {
+  height: 343px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.newslettercontinous432023 .rectangle {
+  background-color: #f1f1f1;
+  height: 335px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.newslettercontinous432023 .the-bank-of-silicon {
+  left: 16px;
+  letter-spacing: -0.28px;
+  line-height: 18px;
+  position: absolute;
+  top: 211px;
+  width: 563px;
+}
+
+.newslettercontinous432023 .business-commercia {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 559px;
+}
+
+.newslettercontinous432023 .this-month-the-netw {
+  left: 15px;
+  letter-spacing: -0.28px;
+  line-height: 18px;
+  position: absolute;
+  top: 53px;
+  width: 564px;
+}
+
+.newslettercontinous432023 .line-2-2 {
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 43px;
+  width: 567px;
+}
+
+.newslettercontinous432023 .line-2-3 {
+  height: 5px;
+  left: 15px;
+  position: absolute;
+  top: 203px;
+  width: 566px;
+}
+
+.newslettercontinous432023 .tech-talk-news {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 174px;
+  white-space: nowrap;
+  width: 599px;
+}
+
+.newslettercontinous432023 .group-12-2 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  height: 121px;
+  min-width: 596px;
+}
+
+.newslettercontinous432023 .screen-shot-2020-05-04-at-65039-am-copy-3 {
+  background-image: url(../img/newsletter---continous-432023-screen-shot-2020-05-04-at-65039-am-copy-A464B82B-150B-4A66-AF45-102FFD567A50@2x.png);
+  background-size: 100% 100%;
+  height: 116px;
+  margin-top: 1.0px;
+  width: 252px;
+}
+
+.newslettercontinous432023 .flex-col-5 {
+  align-items: flex-start;
+  gap: 4px;
+  min-height: 121px;
+  width: 332px;
+}
+
+.newslettercontinous432023 .looking-to-get-invol {
+  font-weight: 700;
+  letter-spacing: -0.85px;
+  line-height: 21px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .check-out-the-woodbr {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 1px;
+  min-height: 96px;
+  width: 326px;
+}
+
+.newslettercontinous432023 .footer-area-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 188px;
+  min-width: 651px;
+}
+
+.newslettercontinous432023 .overlap-group12 {
+  height: 187px;
+  position: relative;
+  width: 651px;
+}
+
+.newslettercontinous432023 .group-9-1 {
+  align-items: flex-start;
+  background-color: #5e6b75;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 180px;
+  padding: 17px 16.3px;
+  position: absolute;
+  top: 7px;
+  width: 651px;
+}
+
+.newslettercontinous432023 .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 117px;
+  height: 101px;
+  margin-left: 3.7px;
+  margin-top: 8px;
+  min-width: 597px;
+}
+
+.newslettercontinous432023 .flex-col-6 {
+  align-items: flex-start;
+  gap: 17px;
+  min-height: 101px;
+  width: 274px;
+}
+
+.newslettercontinous432023 .icreditworks_logo_white-copy-2 {
+  height: 36px;
+  width: 216px;
+}
+
+.newslettercontinous432023 .x485-rt-1-south-buil {
+  color: var(--white);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-xxs);
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 48px;
+}
+
+.newslettercontinous432023 .flex-col-7 {
+  align-items: center;
+  gap: 10px;
+  margin-top: 9.0px;
+  min-height: 70px;
+  width: 206px;
+}
+
+.newslettercontinous432023 .connect-with-us {
+  color: var(--white);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: 19.6px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: 2.0px;
+  min-height: 22px;
+  min-width: 156px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .group-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 206px;
+}
+
+.newslettercontinous432023 .overlap-group2-3 {
+  height: 37px;
+  position: relative;
+  width: 37px;
+}
+
+.newslettercontinous432023 .oval {
+  background-color: var(--black);
+  border-radius: 30px;
+  height: 30px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 30px;
+}
+
+.newslettercontinous432023 .facebook {
+  align-items: flex-start;
+  background-image: url(../img/newsletter---continous-432023-facebook-4-DB77E8B6-FEBE-4CBA-BB8D-9F8BF21CA76C@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  left: 0;
+  min-width: 37px;
+  position: absolute;
+  top: 0;
+}
+
+.newslettercontinous432023 .iconmonstr_copy {
+  background-image: url(../img/newsletter---continous-432023-facebook-4-2-B9F806C0-C7E1-425F-B05C-BAACE6D02D52@2x.png);
+  background-size: 100% 100%;
+  height: 37px;
+  width: 37px;
+}
+
+.newslettercontinous432023 .overlap-group-1 {
+  height: 37px;
+  margin-left: 19px;
+  position: relative;
+  width: 37px;
+}
+
+.newslettercontinous432023 .instagram {
+  background-image: url(../img/newsletter---continous-432023-instagram-14-B171B7D5-826A-43C5-B0B0-576A469F4296@2x.png);
+  background-size: 100% 100%;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.newslettercontinous432023 .group-6-1 {
+  align-items: flex-end;
+  background-image: url(../img/newsletter---continous-432023-combined-shape-FB4FE375-F7E6-49B6-97DA-E3C641BC734C@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  margin-left: 20px;
+  min-width: 37px;
+  padding: 7px 5px;
+}
+
+.newslettercontinous432023 .twitter {
+  background-image: url(../img/newsletter---continous-432023-path-C76A0D8C-1D95-403F-8B97-91989216D157@2x.png);
+  background-size: 100% 100%;
+  height: 20px;
+  width: 26px;
+}
+
+.newslettercontinous432023 .oval-copy-2 {
+  background-color: var(--black);
+  border-radius: 33px;
+  height: 33px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 33px;
+}
+
+.newslettercontinous432023 .linkedin {
+  background-image: url(../img/newsletter---continous-432023-shape-8318D2F5-FC97-4A60-9A57-EB43D741678B@2x.png);
+  background-size: 100% 100%;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.newslettercontinous432023 .line-3 {
+  height: 3px;
+  margin-top: 13px;
+  width: 614px;
+}
+
+.newslettercontinous432023 .x2023-i-credit-works {
+  color: var(--white);
+  font-family: var(--font-family-helvetica);
+  font-size: 9.3px;
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: 2.7px;
+  margin-top: 9px;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .rectangle-copy-6 {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 650px;
+}
+
+.newslettercontinous432023 .flex {
+  align-items: center;
+  display: flex;
+}
+
+.newslettercontinous432023 .flex-col-8 {
+  display: flex;
+  flex-direction: column;
+}
+
+.newslettercontinous432023 .group-7-5 {
+  align-items: flex-start;
+  background-color: var(--jaffa);
+  border-radius: 22px;
+  display: flex;
+  height: 22px;
+  min-width: 22px;
+}
+
+.newslettercontinous432023 .number-6 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.newslettercontinous432023 .overlap-group-container-3 {
+  margin-top: 5px;
+  position: relative;
+}
+
+.newslettercontinous432023 .thu-apr {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+}

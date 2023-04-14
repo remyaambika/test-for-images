@@ -1,0 +1,75 @@
+:root { 
+  --black: #000000;
+  --jaffa: #ed8237;
+  --scarpa-flow: #58595b;
+  --tango: #ea731f;
+  --white: #ffffff;
+ 
+  --font-size-l: 17px;
+  --font-size-m: 15px;
+  --font-size-s: 14px;
+  --font-size-xl: 18px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 27px;
+  --font-size-xxs: 11.2px;
+ 
+  --font-family-arial-boldmt: "Arial-BoldMT", Helvetica;
+  --font-family-arialmt: "ArialMT", Helvetica;
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-neuehaasgroteskdisplay-medium: "NeueHaasGroteskDisplay-Medium", Helvetica, Arial, Helvetica;
+}
+.arial-boldmt-normal-tango-18px {
+  color: var(--tango);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: var(--font-size-xl);
+}
+
+.arialmt-normal-scarpa-flow-17px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-l);
+}
+
+.arialmt-normal-scarpa-flow-14px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-s);
+}
+
+.arial-boldmt-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: var(--font-size-m);
+}
+
+.arial-boldmt-normal-scarpa-flow-17px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: var(--font-size-l);
+}
+
+.arial-boldmt-normal-scarpa-flow-18px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arial-boldmt);
+  font-size: var(--font-size-xl);
+}
+
+.arialmt-normal-scarpa-flow-27px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-xxl);
+}
+
+.neuehaasgroteskdisplay-medium-tango-18px {
+  color: var(--tango);
+  font-family: var(--font-family-neuehaasgroteskdisplay-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.arialmt-normal-scarpa-flow-15px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-arialmt);
+  font-size: var(--font-size-m);
+}
